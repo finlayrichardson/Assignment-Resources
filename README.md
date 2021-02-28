@@ -23,3 +23,11 @@
   - [Navbar](web/navbar.md)
   - [Forms](web/forms.md)
 - [JavaScript](web/javascript.md)
+
+## Databases
+
+- [Wildcards](databases/wildcards.md)
+- [Aggregate functions](databases/aggregatefunctions.md)
+- [Aliases](databases/alias.md)
+- [GROUP BY statements](databases/groupby.md)
+- [ORDER BY statements](databases/orderby.md)

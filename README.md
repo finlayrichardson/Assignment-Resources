@@ -15,4 +15,11 @@
 
 ## Web
 
-- TODO
+- CSS
+  - [Floating and clearing](web/floatclear.md)
+  - [Display](web/display.md)
+  - [Box model](web/boxmodel.md)
+- HTML
+  - [Navbar](web/navbar.md)
+  - [Forms](web/forms.md)
+- [JavaScript](web/javascript.md)

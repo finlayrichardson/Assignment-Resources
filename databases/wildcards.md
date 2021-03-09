@@ -8,4 +8,4 @@ Example:
 
 Example:
 
-`h_t` finds hot, hat, and hit
+`h_t` matches hot, hat, and hit

@@ -12,6 +12,9 @@
   - [Counting occurrences](python/countoccurrences.py)
 - [Pre-defined functions](python/predefined-functions.py)
 - [String slicing](python/strings.py)
+- Previous work
+  - [Specimen Assignment](python/previous-work/specimen.py)
+  - [Practice Assignment](python/previous-work/practice.py)
 
 ## Web
 

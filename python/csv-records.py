@@ -9,7 +9,7 @@ class Person:  # Naming the record
 
 
 # Creating the empty array of records with space for 5 records
-people = [Person("", 0) for x in range(5)]
+people = [Person("", 0) for _ in range(5)]
 f = open("people.csv", "r")  # Opening the file in read mode
 index = 0  # Starts the index at 0 because arrays start at 0
 

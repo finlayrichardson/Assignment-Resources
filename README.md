@@ -34,3 +34,7 @@
 - [Aliases](databases/alias.md)
 - [GROUP BY statements](databases/groupby.md)
 - [ORDER BY statements](databases/orderby.md)
+- Previous work
+  - [Specimen Assignment](databases/previous-work/specimen.md)
+  - [2019 Assignment](databases/previous-work/2019.md)
+  - [2020 Assignment](databases/previous-work/2020.md)

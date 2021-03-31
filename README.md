@@ -29,6 +29,7 @@
 
 ## Databases
 
+- [SQLite3.exe](databases/sqlite3.exe)
 - [Wildcards](databases/wildcards.md)
 - [Aggregate functions](databases/aggregatefunctions.md)
 - [Aliases](databases/alias.md)
